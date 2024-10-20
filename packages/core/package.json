@@ -1,0 +1,13 @@
+{
+  "name": "@nodeverses/core",
+  "version": "0.1.0-alpha",
+  "description": "A modular Node.js framework with pre-configured architectures and patterns.",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "tsc -w & node --watch dist/index.js"
+  },
+  "keywords": [],
+  "author": "Francisco Brito",
+  "license": "MIT",
+  "homepage": "https://nodeverses.com"
+}

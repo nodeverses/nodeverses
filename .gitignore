@@ -1,0 +1,18 @@
+# node modules
+/node_modules
+
+# lock file
+package-lock.json
+packages/*/package-lock.json
+
+# build files
+/packages/*/dist
+
+# IDE
+.vscode
+
+# macOS
+.DS_Store
+
+# turbo
+/.turbo
